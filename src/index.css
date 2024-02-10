@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul li a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+
+.navCol.addOpen{
+    width: 76px;
+}
+
+.addDark{
+    background-color: #333;
+    color: #fff;
+}
+.navCol{
+    background-color: #112137;
+}
